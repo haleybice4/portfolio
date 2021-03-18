@@ -1,0 +1,2 @@
+name = Haley Bice-Midterm
+nember correct = 20percentage correct = %100.0letter grade = A

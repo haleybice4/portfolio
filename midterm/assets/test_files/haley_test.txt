@@ -1,0 +1,161 @@
+Midterm exam haley bice
+Syntax errors:
+Which of the following is a syntax error?
+All of these are syntax errors
+Failing to surround values with opening and closing quotes 
+Leaving off the ending colon (:) after an "if" statement
+Failing to match every opening parenthesis with a closing parenthesis 
+1
+They are all syntax errors because the parser is having trouble reading or understanding a line of code
+Syntax errors 2:
+Which of the following pieces of information is present in messages printed when Python finds a syntax error in/your code?
+All of these things are present
+The name of the source file where the error was found
+The line number of the statement where the number was found
+A carat symbol that tries to mark the location with the statement that caused the error
+1
+This is helpful in programming so its added in
+Syntax errors 3:
+If Python identifies a particular line of code as having a syntax error, where should you look to find and fix the/problem?
+On that line of code or earlier above in your source
+Only on that line of code
+On that line of code or later below in your source file
+Exactly where the carat points
+1
+Python reads your code from top to bottom so looking in your earlier code is the best place to start
+Syntax errors 4:
+Which of the following is the best example of runtime?
+An incorrectly written mathematical expression provides the wrong result
+A missing parentheses in the source code
+A missing double-quote around a string value
+A comment is not started with the hashtag symbol
+1
+A runtime error occurs when python understands what you are saying but runs into trouble when following your/instructions
+Syntax errors 5:
+Which of the following best describes the difference between a logical error and a runtime exception?
+An exception halts your program completely, while a logical error allows the program to continue with incorrect/results
+A logical error is easy to find and fix, while exceptions are always difficult
+Logical errors produce detailed error messages, while runtime exceptions are invisible failures
+Runtime exceptions allow the user to correct the problem, while logical errors can’t be fixed by the user
+1
+An exception disrupts the normal flow of instructions while the logical error is more difficult to fix
+Lists 1:
+Which of the following successfully declares a list named “marbles” and initializes the contents to the string values/“red”, “green” and “blue”?
+Marbles = [“red”, “green”, “blue”]
+Marbles = [red, green, blue]
+Marbles = list.create(“red”, “green”, “blue”)
+marbles  = (“red”: “green”: “blue”)
+1
+In python programming a list is created by placing all the items (elements) inside square brackets separated by/commas
+Lists 2:
+Which of the following statements will NOT successfully display the contents of a list named “marbles”?
+print(“i haven’t lost my” + marbles)
+print(marbles)
+print(str.format(“{}”, marbles))
+print(“i haven’t lost my”,marbles)
+1
+Incorrect syntax
+Lists 3:
+Which of the following statements will successfully update the second element in a list named “marbles”?
+Marbles[1] = “yellow”
+marbles(2) = “yellow”
+marbles.set(1,”yellow”)
+Marbles[“yellow”] = 1
+1
+To make a list you must put the elements in square brackets and also the first item in  a list is always 0 meaning/the second will always be 1
+Lists 4:
+Which of the following best describes the difference between a list and a tuple?
+List contents can be changed, while tuple contents cannot be changed after the tuple is initialized
+Lists can store any data type, while tuples are restricted to a single data type
+Lists can only store small numbers of elements, while tuples are better at storing larger data sets
+Nothing is different; lists and tuples are just two names for the same thing in python
+1
+You can make revisions and edits to your list but tuples are permanent 
+Lists 5:
+Given a list named “marbles”, which of the following statements will successfully access the range of items that/starts with the second element and ends (and includes) with the third element?
+Marbles[1:3]
+Marbles[2:3]
+marbles(1,3)
+marbles.range(2,4)
+1
+Lists are always in square brackets?
+“For” loops 1:
+When creating a “for” loop, how do you identify the statements that belong to the body of that loop?
+Indent them the same number of spaces underneath the “for” statement
+Place them inside opening and closing square brackets
+Add a colon at the end of every statement in the body
+Add a body comment at the end of each statement
+1
+Its called nesting im pretty sure, and it just shows that those statements belong to that “for” loop
+“For” loops 2:
+Given a list named “marbles”, which of the following statements will successfully set up a “for” loop that will/iterate through each value in the list?
+For marble in marbles:
+For marble as marble:
+For (marble from marbles):
+marbles.for():
+1
+This will iterate through every value in the list
+“For” loops 3:
+Given the code below, what will be displayed on the output/screen when the program is run?/pets = [“dog”,”cat”,”fish”]/for pet in pets:/pet = “snake”/print(pets)
+[‘dog’,’cat’,’fish’]
+[‘snake’,’snake’,’snake’]
+‘Snake’
+Pets
+1
+Because the variable pets is defined as dog, cat, and fish and the variable pets is what is being printed
+“For” loops 4:
+What is the output of the following code?/hobby = “marbles”/for letter in hobby:/print(“#” + letter,end=’’’’)
+#m#a#r#b#l#e#s
+Marbles
+#######
+Syntax error; you cannot iterate over the letters in a string using a “for” loop
+1
+You can iterate over the letters in a string using a “for” loop
+“For” loops 5:
+Which of the following “for” loops will successfully iterate with an/index variable that ranges from 0 up through (and including) 4?
+For i in range(0,5):
+For i in range(0:4):
+For i in [0,5]
+For i range(1,4):
+1
+0 through 5 is 0 through 4 and it will read it that way
+Data types 1:
+What are the two possible values of a boolean variable?
+True and false
+1 and 0
+0 and infinity 
+A and b
+1
+Boolean data is measured in true or false.. Im not sure how to word that but yeahhh
+Expressions 1:
+What is the result of the following expression?/10>=10
+True
+False
+0
+1.0
+1
+10 is greater than or equal to 10
+Comparison operators:
+Which of the following comparison operators means “not equal to”?
+!=
+<
+>=
+!<>
+1
+That comparison operator means not equal to
+random question 1:
+How do you spell yellow?
+Yellow
+Yeehaw
+Green
+Yams
+1
+Sound it out people… y e l l o w
+random question 2
+What are the 2 particles found in the nucleus of an atom?
+Proton and neutron
+Mitochondria and dust
+No option provided
+No option provided
+1
+Idk why, we just learned these things… thanks for taking my test! :)
